@@ -1,6 +1,4 @@
-Aqui está um **README.md** bem estruturado para o seu projeto, baseado no notebook que você enviou:
 
----
 
 # Rainfall Prediction Classifier
 
